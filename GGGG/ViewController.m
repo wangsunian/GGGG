@@ -31,7 +31,11 @@
     NSLog(@"master分支 啊啊啊");
     
     NSLog(@"master");
+    
+    NSLog(@"2.0");
+    
 }
+
 
 
 @end
